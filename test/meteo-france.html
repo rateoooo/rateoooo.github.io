@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Météo France</title>
+    <link rel="stylesheet" href="style_comp.css">
+    <style>
+        /* Styles pour les étoiles */
+        html {
+            height: 100%;
+            background: radial-gradient(ellipse at bottom, #1B2735 0%, #090A0F 100%);
+            overflow: hidden;
+        }
+
+        #stars, #stars2, #stars3 {
+            position: absolute;
+            top: 0;
+            left: 0;
+            background: transparent;
+            animation: animStar linear infinite;
+        }
+
+        #stars {
+            width: 1px;
+            height: 1px;
+            animation-duration: 50s;
+        }
+
+        #stars2 {
+            width: 2px;
+            height: 2px;
+            animation-duration: 100s;
+        }
+
+        #stars3 {
+            width: 3px;
+            height: 3px;
+            animation-duration: 150s;
+        }
+
+        @keyframes animStar {
+            from {
+                transform: translateY(0px);
+            }
+            to {
+                transform: translateY(-2000px);
+            }
+        }
+
+        /* Styles pour le rectangle avec fond flou */
+  
+
+
+
+.content-box {
+    position: relative; /* Position relative pour le contenu */
+    background: rgba(255, 255, 255, 0.1); /* Fond semi-transparent */
+    font-family: 'Segoe UI';
+    backdrop-filter: blur(12px); /* Effet de flou */
+    border-radius: 15px; /* Coins arrondis */
+    padding: 30px; /* Espace intérieur */
+    max-width: 4000px; /* Largeur maximale */
+    margin: left ;
+    text-align: left; 
+    color: white; /* Couleur du texte */
+    border: 1px solid rgba(255, 255, 255, 0.2); /* Bordure légère */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Ombre légère */
+  }
+  
+    </style>
+</head>
+<body>
+    <div id="stars"></div>
+    <div id="stars2"></div>
+    <div id="stars3"></div>
+
+    <div class="content-box">
+        <h1>Météo France</h1>
+        <p>
+    L'axe 1 (Dim 1), sépare fortement les États en fonction de leur niveau socio-économique.
+</p>
+<p>
+    Les variables actives comme le taux de pauvreté (-0,30), le taux de diplômés de l’université (-0,37) et le PIB par habitant (-0,40) sont fortement corrélées à cet axe.
+</p>
+<p>
+    Un coefficient négatif signifie que les États situés à gauche du graphique sont caractérisés par un faible PIB, un taux de pauvreté plus bas et un meilleur accès à l’éducation.
+</p>
+<p>
+    Inversement, les États situés à droite du graphique ont un PIB plus faible, un taux de pauvreté plus élevé et un accès à l’éducation plus limité.
+</p>
+<p>
+    Les États comme le New Jersey, le Massachusetts, New York et le Connecticut sont positionnés à gauche, ce qui correspond à des régions économiquement développées avec une forte proportion de diplômés et une faible pauvreté.
+</p>
+<p>
+    À l’inverse, les États comme le Mississippi, l’Alabama, la Louisiane et l’Arkansas sont situés à droite et présentent des indicateurs économiques plus défavorables.
+</p>
+<p>
+    L'axe 2 (Dim 2), qui explique 16,11 % de la variance, apporte une information supplémentaire en structurant les États selon leur niveau de criminalité violente.
+</p>
+<p>
+    Les variables qualitatives comme le taux de viols (57,28) ont une contribution particulièrement élevée sur cet axe, indiquant que les États situés en haut du graphique présentent des taux élevés de crimes violents.
+</p>
+<p>
+    Les taux de meurtres (14,41) et d’agressions physiques (23,27) influencent également cet axe, mais dans une moindre mesure.
+</p>
+<p>
+    Ainsi, les États situés en haut, comme l'Alaska...
+</p>
+<a href="testquiz.html">Retour à l'accueil</a>
+
+    </div>
+
+    <script>
+        // Fonction pour générer des ombres aléatoires
+        function generateStarShadows(numStars, maxWidth, maxHeight) {
+            let shadows = [];
+            for (let i = 0; i < numStars; i++) {
+                const x = Math.floor(Math.random() * maxWidth);
+                const y = Math.floor(Math.random() * maxHeight);
+                shadows.push(`${x}px ${y}px #FFF`);
+            }
+            return shadows.join(', ');
+        }
+
+        // Appliquer les ombres aux éléments d'étoiles
+        document.addEventListener('DOMContentLoaded', () => {
+            const stars = document.getElementById('stars');
+            const stars2 = document.getElementById('stars2');
+            const stars3 = document.getElementById('stars3');
+
+            stars.style.boxShadow = generateStarShadows(700, 2000, 2000); // 700 petites étoiles
+            stars2.style.boxShadow = generateStarShadows(200, 2000, 2000); // 200 étoiles moyennes
+            stars3.style.boxShadow = generateStarShadows(100, 2000, 2000); // 100 grosses étoiles
+        });
+    </script>
+</body>
+</html>
