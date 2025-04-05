@@ -1,0 +1,325 @@
+id_station;nom_station;ville;longitude;latitude;localisations
+ce4bgi12rcd13ifvqb70;Cours Jean Ballard;5.374584;43.293009;Marseille 1er Arrondissement
+ce4bgj92rcd13ifvqbe0;Vallon de l’Oriol;5.36101;43.27618;Marseille 7e Arrondissement
+ce4bgjp2rcd13ifvqbh0;Saint Charles - Place des Marseillaises;5.3809;43.301417;Marseille 1er Arrondissement
+ce4bgk12rcd13ifvqbj0;Coutellerie;5.37291;43.2968;Marseille 2e Arrondissement
+ce4bgkp2rcd13ifvqbmg;Canebiere - Beauvau;5.375048;43.295279;Marseille 1er Arrondissement
+ce4bgl12rcd13ifvqbo0;Académie - Capucins;5.381079;43.296007;Marseille 1er Arrondissement
+ce4bgl92rcd13ifvqbq0;Arenc - Chanterac;5.368562;43.312239;Marseille 2e Arrondissement
+ce4bgm92rcd13ifvqbr0;La Major;5.365548;43.299215;Marseille 2e Arrondissement
+ce4bgn12rcd13ifvqbt0;Place de Lenche;5.366057;43.297075;Marseille 2e Arrondissement
+ce4bgn92rcd13ifvqbvg;Euromediterrannee Gantes;5.368465;43.309076;Marseille 2e Arrondissement
+ce4bgop2rcd13ifvqc1g;Grand Rue;5.370991;43.297839;Marseille 2e Arrondissement
+ce4bgqh2rcd13ifvqc5g;République - Joliette;5.368994;43.303042;Marseille 2e Arrondissement
+ce4bgs12rcd13ifvqcag;Les Docks - Terrasses du Port;5.365619;43.305625;Marseille 2e Arrondissement
+ce4bgs92rcd13ifvqcc0;Jules Guesde;5.374132;43.301429;Marseille 2e Arrondissement
+ce4bgt12rcd13ifvqcd0;National Métro;5.373104;43.314811;Marseille 3e Arrondissement
+ce4bgt92rcd13ifvqcf0;Place Placide Caffo;5.384829;43.313571;Marseille 3e Arrondissement
+ce4bguh2rcd13ifvqcj0;Ferry-Nédelec;5.377158;43.302784;Marseille 3e Arrondissement
+ce4bgvh2rcd13ifvqcs0;Blancarde - Duparc;5.400793;43.302759;Marseille 4e Arrondissement
+ce4bh092rcd13ifvqd20;Cinq Avenues Longchamp;5.397521;43.304292;Marseille 4e Arrondissement
+ce4bh0p2rcd13ifvqd70;Libération - Chape - Espérandieu;5.394762;43.30213;Marseille 4e Arrondissement
+ce4bh112rcd13ifvqd90;Foch - Boisson;5.404053;43.297961;Marseille 4e Arrondissement
+ce4bh112rcd13ifvqda0;Duparc - Brossolette;5.401029;43.306414;Marseille 4e Arrondissement
+ce4bh292rcd13ifvqdf0;Chave - Goudard;5.39397;43.295197;Marseille 5e Arrondissement
+ce4bh2h2rcd13ifvqdh0;Plaine - Saint-Pierre;5.386297;43.294162;Marseille 5e Arrondissement
+ce4bh312rcd13ifvqdj0;Chave - Sakakini;5.399639;43.295713;Marseille 5e Arrondissement
+ce4bh392rcd13ifvqdl0;Tivoli - Roosevelt;5.388973;43.298764;Marseille 5e Arrondissement
+ce4bh3h2rcd13ifvqdo0;Briffaut Camas;5.397498;43.294314;Marseille 5e Arrondissement
+ce4bh3p2rcd13ifvqdq0;Notre-Dame - Dragon;5.373785;43.286961;Marseille 6e Arrondissement
+ce4bh492rcd13ifvqdug;Baille - Friedland;5.386795;43.286595;Marseille 6e Arrondissement
+ce4bh8p2rcd13ifvqeb0;Cantini - Rouet;5.385603;43.284776;Marseille 6e Arrondissement
+ce4bh9p2rcd13ifvqec0;Paradis - Vignerons;5.379377;43.287184;Marseille 6e Arrondissement
+ce4bha12rcd13ifvqef0;Place du Terrail;5.369308;43.280391;Marseille 7e Arrondissement
+ce4bha92rcd13ifvqeh0;Sainte - Notre-Dame;5.371569;43.291672;Marseille 7e Arrondissement
+ce4bhbp2rcd13ifvqerg;Corniche - Endoume;5.350526;43.282743;Marseille 7e Arrondissement
+ce4bhf92rcd13ifvqf40;Cantini;5.395692;43.279185;Marseille 8e Arrondissement
+ce4bhf92rcd13ifvqf50;Périer - Cremieux;5.380114;43.279087;Marseille 8e Arrondissement
+ce4bhg12rcd13ifvqf80;Prado - Périer;5.38744;43.279742;Marseille 8e Arrondissement
+ce4bhh92rcd13ifvqfj0;318 Mazargues;5.393983;43.2607;Marseille 8e Arrondissement
+ce4bhkp2rcd13ifvqgd0;La Gaye;5.411051;43.257079;Marseille 9e Arrondissement
+ce4bhlh2rcd13ifvqgig;Obélisque de Mazargues;5.403214;43.25102;Marseille 9e Arrondissement
+ce4bhm92rcd13ifvqglg;Hôpital Sainte-Marguerite;5.40899;43.259269;Marseille 9e Arrondissement
+ce4bhn12rcd13ifvqgqg;Sormiou;5.400047;43.231794;Marseille 9e Arrondissement
+ce4bhnh2rcd13ifvqgug;Boulevard Urbain Sud - Pont de Vivaux;5.42643;43.281548;Marseille 10e Arrondissement
+ce4bhnp2rcd13ifvqh0g;Capelette - Forges;5.410561;43.279465;Marseille 10e Arrondissement
+ce4bhoh2rcd13ifvqh5g;Toulon - Menpenti;5.392121;43.284462;Marseille 10e Arrondissement
+ce4bhp92rcd13ifvqhag;Bois Luzy;5.424305;43.310785;Marseille 12e Arrondissement
+ce4bhp92rcd13ifvqhbg;Montolivet;5.423936;43.317121;Marseille 12e Arrondissement
+ce4bhpp2rcd13ifvqhgg;Saint-Paul - Malpassé;5.409903;43.326605;Marseille 13e Arrondissement
+ce4bhrh2rcd13ifvqhug;Zoccola;5.367666;43.3209;Marseille 15e Arrondissement
+ce4bhs12rcd13ifvqhvg;Allar;5.36557;43.324771;Marseille 15e Arrondissement
+ce4bhu92rcd13ifvqi70;Madrague de Montredon;5.355532;43.231926;Marseille 8e Arrondissement
+cki0cbj6b192h4jlfktg;Tobelem - Crinias;5.36078;43.28727;Marseille 7e Arrondissement
+cpo3532slgdg3j2ikp40;Saména;5.35377;43.22926;Marseille 8e Arrondissement
+cpo36qri1sfpv3e86is0;Bain des Dames;5.36393;43.24167;Marseille 8e Arrondissement
+st_cvj6ca6bvosntc0bfgr0;Kaddouz;5.42464;43.3073;Marseille 12e Arrondissement
+ce4bgg92rcd13ifvqb30;National - Guibal;5.384119;43.305364;Marseille 1er Arrondissement
+ce4bgh92rcd13ifvqb50;Canebiere Reine Elisabeth;5.37522;43.295748;Marseille 1er Arrondissement
+ce4bgi12rcd13ifvqb80;Sainte - Lulli;5.376394;43.292666;Marseille 1er Arrondissement
+ce4bgi92rcd13ifvqb90;Canebière Saint-Ferreol;5.37712;43.296278;Marseille 1er Arrondissement
+ce4bgih2rcd13ifvqba0;Sibie - Curiol;5.385581;43.29529;Marseille 1er Arrondissement
+ce4bgip2rcd13ifvqbb0;Canebière - Dugommier;5.381066;43.298037;Marseille 1er Arrondissement
+ce4bgj92rcd13ifvqbd0;Réformés Canebière;5.384854;43.299719;Marseille 1er Arrondissement
+ce4bgjh2rcd13ifvqbg0;Colbert - Sainte Barbe;5.374809;43.299249;Marseille 1er Arrondissement
+ce4bgkh2rcd13ifvqbl0;Centre Bourse;5.376836;43.297067;Marseille 1er Arrondissement
+ce4bgnh2rcd13ifvqc0g;Hôtel de Ville;5.37152;43.296153;Marseille 2e Arrondissement
+ce4bgph2rcd13ifvqc2g;Quai du Port;5.367355;43.29573;Marseille 2e Arrondissement
+ce4bgpp2rcd13ifvqc3g;MUCEM;5.362774;43.298433;Marseille 2e Arrondissement
+ce4bgrh2rcd13ifvqc8g;Schuman - Leca;5.366286;43.301939;Marseille 2e Arrondissement
+ce4bgrp2rcd13ifvqc9g;Joliette - Dunkerque;5.367344;43.305365;Marseille 2e Arrondissement
+ce4bgt12rcd13ifvqce0;National - Belle de Mai;5.381511;43.308012;Marseille 3e Arrondissement
+ce4bgt92rcd13ifvqcg0;National - Hoche;5.377653;43.311124;Marseille 3e Arrondissement
+ce4bgth2rcd13ifvqch0;Auphan - Vaillant;5.377367;43.317075;Marseille 3e Arrondissement
+ce4bgup2rcd13ifvqcn0;Saint Charles - Faculté;5.379026;43.304606;Marseille 3e Arrondissement
+ce4bgup2rcd13ifvqco0;Friche Belle de Mai;5.390258;43.309589;Marseille 3e Arrondissement
+ce4bgv92rcd13ifvqcr0;Belle de Mai Cristofol;5.38359;43.310804;Marseille 3e Arrondissement
+ce4bgvp2rcd13ifvqct0;Eglise des Chartreux;5.401449;43.309371;Marseille 4e Arrondissement
+ce4bgvp2rcd13ifvqcu0;Chutes Lavie - Guigou;5.396838;43.313291;Marseille 4e Arrondissement
+ce4bh092rcd13ifvqd30;Saint-Just - Labry;5.401662;43.312609;Marseille 4e Arrondissement
+ce4bh0h2rcd13ifvqd50;Place Sébastopol;5.397225;43.298681;Marseille 4e Arrondissement
+ce4bh0h2rcd13ifvqd60;Blancarde - Gare SNCF;5.40601;43.296263;Marseille 4e Arrondissement
+ce4bh0p2rcd13ifvqd80;Flammarion- Montricher;5.393687;43.305994;Marseille 4e Arrondissement
+ce4bh192rcd13ifvqdb0;Liberation - Isoard;5.390857;43.300851;Marseille 4e Arrondissement
+ce4bh192rcd13ifvqdc0;Place Pol Lapeyre;5.409104;43.292572;Marseille 5e Arrondissement
+ce4bh2p2rcd13ifvqdi0;Baille - Vertus;5.393092;43.288494;Marseille 5e Arrondissement
+ce4bh312rcd13ifvqdk0;Sakakini - Saint-Pierre;5.401131;43.292724;Marseille 5e Arrondissement
+ce4bh3p2rcd13ifvqdp0;Chave Eugene Pierre;5.390426;43.295169;Marseille 5e Arrondissement
+ce4bh412rcd13ifvqdr0;Paradis - Escat;5.380945;43.283506;Marseille 6e Arrondissement
+ce4bh412rcd13ifvqds0;Notre-Dame - Vauban;5.375062;43.283998;Marseille 6e Arrondissement
+ce4bh4p2rcd13ifvqe0g;Lodi - Berlioz;5.386447;43.290345;Marseille 6e Arrondissement
+ce4bh4p2rcd13ifvqe1g;Rome - Sylvabelle;5.381274;43.290099;Marseille 6e Arrondissement
+ce4bh5p2rcd13ifvqe4g;Place de la Corderie;5.371482;43.290779;Marseille 7e Arrondissement
+ce4bh692rcd13ifvqe90;Pierre Puget - Breteuil;5.375722;43.290323;Marseille 6e Arrondissement
+ce4bha92rcd13ifvqeg0;Pasteur;5.359243;43.290639;Marseille 7e Arrondissement
+ce4bhah2rcd13ifvqei0;Saint-Eugene;5.358661;43.284533;Marseille 7e Arrondissement
+ce4bhah2rcd13ifvqej0;Vallon Jourdan;5.363348;43.286598;Marseille 7e Arrondissement
+ce4bhap2rcd13ifvqek0;Endoume - Corderie;5.366408;43.289184;Marseille 7e Arrondissement
+ce4bhb12rcd13ifvqem0;Place du 4 Septembre;5.358371;43.28856;Marseille 7e Arrondissement
+ce4bhbh2rcd13ifvqepg;Corniche - Malmousque;5.349706;43.284214;Marseille 7e Arrondissement
+ce4bhbh2rcd13ifvqeqg;Livon - Vieux-Port;5.360731;43.292311;Marseille 7e Arrondissement
+ce4bhc92rcd13ifvqetg;Corse - Saint Maurice;5.363719;43.289468;Marseille 7e Arrondissement
+ce4bhg12rcd13ifvqf70;Base Nautique Roucas Blanc;5.372891;43.265714;Marseille 8e Arrondissement
+ce4bhg92rcd13ifvqf90;Prado - Gabes;5.382694;43.26681;Marseille 8e Arrondissement
+ce4bhgh2rcd13ifvqfa0;Mendès France Huveaune;5.375453;43.260218;Marseille 8e Arrondissement
+ce4bhgh2rcd13ifvqfb0;Vieille Chapelle;5.374457;43.2479;Marseille 8e Arrondissement
+ce4bhgp2rcd13ifvqfc0;Promenade Pompidou David;5.374515;43.261782;Marseille 8e Arrondissement
+ce4bhgp2rcd13ifvqfd0;Hambourg Rond Point Guerre;5.389139;43.250035;Marseille 8e Arrondissement
+ce4bhh12rcd13ifvqff0;Escale Borély;5.376452;43.254948;Marseille 8e Arrondissement
+ce4bhh92rcd13ifvqfi0;Paradis - Lord Duveen;5.384392;43.275625;Marseille 8e Arrondissement
+ce4bhhh2rcd13ifvqfl0;Negresko - Paulet;5.389397;43.269319;Marseille 8e Arrondissement
+ce4bhhp2rcd13ifvqfm0;Prado - Michelet;5.39176;43.272119;Marseille 8e Arrondissement
+ce4bhi12rcd13ifvqfp0;Parc Pastré;5.366238;43.239588;Marseille 8e Arrondissement
+ce4bhih2rcd13ifvqfr0;Lapin Blanc;5.381688;43.246609;Marseille 8e Arrondissement
+ce4bhjp2rcd13ifvqga0;Liandier - Rouet;5.392143;43.27839;Marseille 8e Arrondissement
+ce4bhk92rcd13ifvqgb0;Boulevard urbain Sud - François Mauriac;5.422766;43.27073;Marseille 10e Arrondissement
+ce4bhl92rcd13ifvqghg;Michelet - Luce;5.398935;43.258658;Marseille 9e Arrondissement
+ce4bhm12rcd13ifvqgkg;Mazargues - Almeras;5.395187;43.250963;Marseille 9e Arrondissement
+ce4bhmh2rcd13ifvqgmg;Coin Joli;5.404472;43.262163;Marseille 9e Arrondissement
+ce4bhmp2rcd13ifvqgog;Luminy - Parc National des Calanques;5.436933;43.231562;Marseille 9e Arrondissement
+ce4bhn12rcd13ifvqgpg;Roy d'Espagne - Floralia;5.397272;43.241784;Marseille 9e Arrondissement
+ce4bhnh2rcd13ifvqgtg;Huveaune - Curtel;5.407195;43.278128;Marseille 10e Arrondissement
+ce4bho12rcd13ifvqh1g;Pont de Vivaux;5.416622;43.27996;Marseille 10e Arrondissement
+ce4bho12rcd13ifvqh2g;Reboul - Argile;5.396622;43.280784;Marseille 10e Arrondissement
+ce4bhop2rcd13ifvqh7g;Place Caire;5.418724;43.303837;Marseille 12e Arrondissement
+ce4bhph2rcd13ifvqheg;Beaumont;5.435268;43.308053;Marseille 12e Arrondissement
+ce4bhpp2rcd13ifvqhfg;Saint-Jean du Désert;5.436434;43.298776;Marseille 12e Arrondissement
+ce4bhq12rcd13ifvqhhg;Lavéran - Diderot;5.414323;43.325246;Marseille 13e Arrondissement
+ce4bhq92rcd13ifvqhjg;Parc Corot;5.406263;43.323378;Marseille 13e Arrondissement
+ce4bhq92rcd13ifvqhkg;Malpassé Métro;5.415563;43.320421;Marseille 13e Arrondissement
+ce4bhqp2rcd13ifvqhng;Sainte-Marthe - Glacière;5.390173;43.317557;Marseille 14e Arrondissement
+ce4bhqp2rcd13ifvqhog;Sainte-Marthe - Moretti;5.388836;43.32367;Marseille 14e Arrondissement
+ce4bhr12rcd13ifvqhqg;Place Dalmas;5.382756;43.322872;Marseille 14e Arrondissement
+ce4bhr92rcd13ifvqhrg;Pierre Paraf;5.390362;43.330205;Marseille 14e Arrondissement
+ce4bhsp2rcd13ifvqi50;Belle Vue;5.380359;43.31529;Marseille 3e Arrondissement
+cjm6bp8fraef2m0cb0m0;Sainte Marguerite Schloesing;5.40262;43.26949;Marseille 9e Arrondissement
+cpo3342slgdg3j2ifvpg;Entrée du parc national des calanques;5.35489;43.23052;Marseille 8e Arrondissement
+ce4bgh92rcd13ifvqb40;Place aux huiles;5.3718;43.29307;Marseille 1er Arrondissement
+ce4bghh2rcd13ifvqb60;National - Longchamp;5.387812;43.301396;Marseille 1er Arrondissement
+ce4bgj12rcd13ifvqbc0;Allées Gambetta;5.381509;43.299028;Marseille 1er Arrondissement
+ce4bgjh2rcd13ifvqbf0;Saint-Ferréol - Davso;5.37835;43.2936;Marseille 1er Arrondissement
+ce4bgk12rcd13ifvqbi0;Flammarion - Isoard;5.388873;43.304278;Marseille 1er Arrondissement
+ce4bgkh2rcd13ifvqbk0;Longchamp - Grobet;5.392138;43.302997;Marseille 1er Arrondissement
+ce4bgqh2rcd13ifvqc4g;Paris - Forbin;5.372256;43.30606;Marseille 2e Arrondissement
+ce4bgr92rcd13ifvqc6g;Tour La Marseillaise;5.367081;43.313389;Marseille 2e Arrondissement
+ce4bgr92rcd13ifvqc7g;Sadi-Carnot;5.371829;43.299724;Marseille 2e Arrondissement
+ce4bguh2rcd13ifvqckg;Hôpital Européen;5.371777;43.309054;Marseille 3e Arrondissement
+ce4bgv12rcd13ifvqcp0;Place Cadenat;5.387247;43.311722;Marseille 3e Arrondissement
+ce4bgv92rcd13ifvqcq0;Strasbourg - Leca;5.376487;43.307945;Marseille 3e Arrondissement
+ce4bh012rcd13ifvqcv0;Chutes Lavie - Dahdah;5.396549;43.309047;Marseille 4e Arrondissement
+ce4bh012rcd13ifvqd00;Saint-Just - Le Dôme;5.404722;43.31683;Marseille 4e Arrondissement
+ce4bh012rcd13ifvqd10;Blancarde - Botinelly;5.404389;43.303256;Marseille 4e Arrondissement
+ce4bh0h2rcd13ifvqd40;Foch - Fayolle;5.398615;43.301229;Marseille 4e Arrondissement
+ce4bh192rcd13ifvqdd0;Saint-Pierre - Hugueny;5.392897;43.292005;Marseille 5e Arrondissement
+ce4bh292rcd13ifvqdg0;Pierre Roux;5.39501;43.285735;Marseille 5e Arrondissement
+ce4bh392rcd13ifvqdm0;Jean Moulin - Hôpital La Timone;5.399634;43.29041;Marseille 5e Arrondissement
+ce4bh3h2rcd13ifvqdn0;Baille - Hôpital Conception;5.396322;43.289363;Marseille 5e Arrondissement
+ce4bh492rcd13ifvqdvg;Rouet;5.386471;43.283502;Marseille 6e Arrondissement
+ce4bh512rcd13ifvqe2g;Rome - Salvator;5.381361;43.290995;Marseille 6e Arrondissement
+ce4bh512rcd13ifvqe3g;Castellane;5.384124;43.28479;Marseille 6e Arrondissement
+ce4bh612rcd13ifvqe6g;Lieutaud - Berlioz;5.38406;43.289307;Marseille 6e Arrondissement
+ce4bh692rcd13ifvqea0;Cours Julien - Frères Barthelemy;5.384248;43.292639;Marseille 6e Arrondissement
+ce4bh9p2rcd13ifvqed0;Estrangin;5.378304;43.289744;Marseille 6e Arrondissement
+ce4bha12rcd13ifvqee0;Vallon Montebello;5.378308;43.281044;Marseille 6e Arrondissement
+ce4bhb12rcd13ifvqel0;Livon - Pasteur;5.357898;43.292004;Marseille 7e Arrondissement
+ce4bhb92rcd13ifvqen0;Plage des Catalans;5.356111;43.290104;Marseille 7e Arrondissement
+ce4bhbh2rcd13ifvqeo0;Plage du Prophète;5.362709;43.273606;Marseille 7e Arrondissement
+ce4bhbp2rcd13ifvqesg;La Criée;5.368402;43.292748;Marseille 7e Arrondissement
+ce4bhch2rcd13ifvqeug;Vallon des Auffes;5.351079;43.286229;Marseille 7e Arrondissement
+ce4bhdp2rcd13ifvqf20;Rabatau - Hôpital Saint-Joseph;5.394017;43.274106;Marseille 8e Arrondissement
+ce4bhe12rcd13ifvqf30;Mazargues - Huveaune;5.390043;43.265575;Marseille 8e Arrondissement
+ce4bhg12rcd13ifvqf60;Zenatti - Malrieu;5.388992;43.246465;Marseille 8e Arrondissement
+ce4bhgp2rcd13ifvqfe0;Rond Point du Prado;5.390727;43.273128;Marseille 8e Arrondissement
+ce4bhh12rcd13ifvqfg0;Michelet - Huveaune;5.393976;43.267966;Marseille 8e Arrondissement
+ce4bhh92rcd13ifvqfh0;Prado - Paradis;5.386439;43.269467;Marseille 8e Arrondissement
+ce4bhhh2rcd13ifvqfk0;Plage de la Pointe Rouge;5.370736;43.243884;Marseille 8e Arrondissement
+ce4bhi12rcd13ifvqfo0;Prado - Lord Duveen;5.388793;43.27677;Marseille 8e Arrondissement
+ce4bhi12rcd13ifvqfq0;Cité Radieuse;5.395435;43.264971;Marseille 8e Arrondissement
+ce4bhih2rcd13ifvqfs0;Clot Bey - Leau;5.382303;43.255756;Marseille 8e Arrondissement
+ce4bhip2rcd13ifvqft0;Mazargues - Sainte Anne;5.394357;43.258189;Marseille 8e Arrondissement
+ce4bhjp2rcd13ifvqg90;Huveaune - Borely;5.379296;43.262023;Marseille 8e Arrondissement
+ce4bhk92rcd13ifvqgc0;Sainte-Marguerite Dromel;5.402538;43.270585;Marseille 9e Arrondissement
+ce4bhl12rcd13ifvqgf0;Rolland - Platanes;5.409959;43.271718;Marseille 9e Arrondissement
+ce4bhlp2rcd13ifvqgjg;Lancier - Savary;5.39507;43.24558;Marseille 8e Arrondissement
+ce4bhn92rcd13ifvqgrg;Boulevard Urbain Sud - Verdillon;5.424534;43.275028;Marseille 10e Arrondissement
+ce4bhnp2rcd13ifvqgvg;Corail - Marseilleveyre;5.377613;43.24071;Marseille 8e Arrondissement
+ce4bho92rcd13ifvqh3g;Jean Moulin - Sainte Baume;5.399979;43.287154;Marseille 5e Arrondissement
+ce4bho92rcd13ifvqh4g;Palais Omnisports;5.400089;43.279966;Marseille 10e Arrondissement
+ce4bhoh2rcd13ifvqh6g;La Fourragère;5.424768;43.304024;Marseille 12e Arrondissement
+ce4bhop2rcd13ifvqh8g;Saint-Barnabé - Haguenau;5.412904;43.304188;Marseille 12e Arrondissement
+ce4bhp12rcd13ifvqh9g;Louis Armand;5.413265;43.299586;Marseille 12e Arrondissement
+ce4bhp92rcd13ifvqhcg;Stade Bombardière;5.437064;43.317108;Marseille 12e Arrondissement
+ce4bhph2rcd13ifvqhdg;La Boiseraie;5.422931;43.295522;Marseille 12e Arrondissement
+ce4bhq12rcd13ifvqhig;Perrin - Le Moulin;5.40752;43.318909;Marseille 13e Arrondissement
+ce4bhqh2rcd13ifvqhlg;IUT Saint Jérôme;5.409118;43.341354;Marseille 14e Arrondissement
+ce4bhqh2rcd13ifvqhmg;Faculté Saint Jérôme;5.410335;43.336146;Marseille 13e Arrondissement
+ce4bhr12rcd13ifvqhpg;Bon Secours - Huilerie;5.381694;43.319929;Marseille 14e Arrondissement
+ce4bhr92rcd13ifvqhsg;Peupliers - Berthelot;5.39184;43.337166;Marseille 14e Arrondissement
+ce4bhsh2rcd13ifvqi2g;Lyon - Zoccola;5.367669;43.323417;Marseille 15e Arrondissement
+ce4bht12rcd13ifvqi60;Char Jeanne d'Arc - Notre Dame de La Garde;5.370677;43.28604;Marseille 6e Arrondissement
+ce501612rcd8frsf0b60;Augustin Aubert;5.402685;43.267959;Marseille 9e Arrondissement
+chh1huq6cuj3fo74tm60;Camas - Jaubert;5.393533;43.297807;Marseille 5e Arrondissement
+28;028-CARRIÈRE MISERY;-1.57990384592236;47.2000724914656;Rue Joseph Cholet
+3;003-STRASBOURG;-1.551979;47.21682;4, rue des Carmélites - Place Tirant Lo Blanc
+43;043-MACHINE DE L'ÎLE;-1.565034;47.206727;2 bis, boulevard Léon Bureau
+117;117-MAIRIE DE CHANTENAY;-1.58785;47.20656;Place de la Liberté
+19;019-SAINT SIMILIEN;-1.55892089047478;47.21985446733;1, place Saint Similien
+17;017-SAINTE ÉLISABETH;-1.56157014764171;47.2192139526135;4, place Sainte Elisabeth
+88;088-MELLINET;-1.57717541432178;47.2115010701178;1, boulevard Allard - Place Général Mellinet
+31;031-BOURSE;-1.55908655123987;47.2120830307532;Allée de la Bourse - Boulevard des Nations-Unies
+48;048-VERDUN;-1.55184978437031;47.2175053746786;15, rue de Verdun
+86;086-HAUTS PAVÉS;-1.56750184250227;47.2254706269804;Rue de Berry - Rue des Hauts Pavés
+96;096-TORTIÈRE;-1.54922176680989;47.2353352222086;Pont de la Tortière - boulevard Eugène Orieux
+56;056-VINCENT GACHE;-1.54177773985064;47.2067986185753;9, rue François Albert
+27;027-GUIST'HAU NORD;-1.56917188330244;47.2179298163251;42, boulevard Gabriel Guist'Hau
+37;037-FÉLIX ÉBOUÉ;-1.5568245371939;47.211465063355;1, allée de l'Île Gloriette
+70;070-GARE DE NANTES SUD;-1.542844;47.215505;Quai de Malakoff - Canal Saint-Félix
+60;060-GARE DE NANTES NORD;-1.543517;47.217212;27 boulevard Stalingrad
+65;065-COURS SULLY;-1.55166644254598;47.2225873399067;9, cours Sully
+13;013-BRETAGNE SUD;-1.55916106661899;47.216787949913;3, rue Pierre Chereau
+84;084-RÉGION;-1.52593345192508;47.2107421421814;Rue de la Loire - place Gaston Defferre
+85;085-BEL AIR;-1.56002281967663;47.2263944309861;102, rue Paul Bellamy
+55;055-MAGELLAN;-1.54429847094521;47.2107814065594;11, rue de Belfort
+53;053-OLIVETTES;-1.54988602493776;47.2117363932221;10, rue des Olivettes
+79;079-MALAKOFF;-1.536954;47.213395;15, quai de Malakoff
+116;116-LIBERTÉ;-1.588395;47.198124;Rond-Point de Louisiane
+104;104-ANTILLES;-1.5722774;47.202685;20, quai des Antilles
+90;090-PROCÉ;-1.57661284372726;47.2241950617326;Angle boulevard Gaston Serpette - Boulevard Auguste Pageot
+32;032-FOCH;-1.550185;47.2192484;Place Foch
+71;071-TALENSAC NORD;-1.55894074669074;47.2218536381884;18, rue Talensac - 26, rue de Bel Air
+120;120-ROND-POINT DE PARIS;-1.534981;47.234853;16, boulevard Jules Verne
+4;004-MOULIN;-1.5543847138777;47.2166675820152;18, rue du Moulin
+64;064-SAINT CLÉMENT;-1.5470992337185;47.2217851835226;24, rue du Maréchal Joffre
+54;054-CITÉ INTERNATIONALE DES CONGRÈS;-1.54495254166858;47.2131800855278;2, rue de Jemmapes - 2, avenue Jean-Claude Bonduelle
+24;024-VERSAILLES;-1.55371196140233;47.2245149071911;25, quai de Versailles - Ile de Versailles
+124;124-PAS ENCHANTÉS;-1.522726;47.205239;Boulevard des Pas Enchantés - SAINT-SÉBASTIEN-SUR-LOIRE
+5;005-BROSSARD;-1.55674926307655;47.2188372304694;12, Allée Duquesne
+38;038-RICORDEAU;-1.55304912932047;47.2121084631418;Place Alexis-Ricordeau - Chaussée de la Madeleine
+51;051-TABARLY;-1.52973588598036;47.2141946314965;5, boulevard de Berlin
+9;009-GUÉPIN;-1.55901748516744;47.2158145871395;Angle rue du Calvaire / Rue Guépin
+74;074-CANCLAUX;-1.57492461719297;47.2143336608893;8, place Canclaux
+47;047-MARTYRS NANTAIS;-1.548169;47.206933;1, boulevard des Martyrs Nantais de la Résistance
+113;113-MAIRIE DE REZÉ;-1.569362;47.191117;Place Jean-Baptiste Daviais - REZÉ
+123;123-TRARIEUX;-1.522334;47.225957;3, place Gabriel Trarieux
+81;081-MANGIN;-1.54550725123162;47.2009555172397;Devant le 8, place Mangin
+8;008-BOUCHERIE;-1.55711168019757;47.2162008925882;4, rue de la Boucherie
+73;073-SARRADIN;-1.57043859807393;47.2208824330189;4, place Emile Sarradin
+99;099-ST JACQUES;-1.5365406634647;47.1958989090141;Rue Saint Jacques
+36;036-ALGER;-1.567368;47.210549;10, rue d'Alger
+82;082-SÉBILLEAU;-1.53311824492362;47.2067575123084;120, rue Dr Jules Sébilleau
+6;006-PLACE DU CIRQUE;-1.55693764537887;47.217596682406;7, allée Duquesne
+2;002-HÔTEL DE VILLE;-1.55348429039295;47.2185718130915;29, rue de Strasbourg
+91;091-ROND POINT DE VANNES;-1.57211457799373;47.2295806053692;65, boulevard Lelasseur
+26;026-GUIST'HAU SUD;-1.56700452626517;47.2168279599745;30, boulevard Gabriel Guist'Hau - Rue Harouys
+52;052-BACO;-1.54875055574198;47.2143275245891;8, allée Baco
+102;102-GARE DE PONT ROUSSEAU;-1.549212;47.19316;Rue de la Gare - REZÉ
+20;020-BOUFFAY;-1.552782;47.214301;7, allée du Port Maillard - Cours Franklin Roosevelt
+75;075-LAMORICIÈRE;-1.57136936022191;47.212308958847;14 bis, rue Lamoricière - Place Beaumanoir
+93;093-FACULTÉS;-1.5553090111073;47.2462980684235;A l'angle route de la Jonelière -  Boulevard Guy Mollet
+44;044-PALAIS DE JUSTICE;-1.5611730779894;47.2083172884415;19, quai François Mitterand - 1, rue Olympe de Gouges
+1;001-PRÉFECTURE;-1.55489134108209;47.2198398196124;Place du Port Communeau
+114;114-ATOUTSUD;-1.570365;47.194493;Angle rue de l'Abbé Grégoire - avenue Maréchal de Tassigny - REZÉ
+89;089-SAINT-AIGNAN;-1.57868926431099;47.2074386375471;65, boulevard Saint-Aignan
+110;110-AUDITORIUM;-1.554025;47.185402;1, avenue de Bretagne - REZÉ
+15;015-ARISTIDE BRIAND;-1.56298679328837;47.2171848232902;Place Aristide Briand
+34;034-MÉDIATHÈQUE;-1.56174490565258;47.2108869258159;24, quai de la Fosse
+103;103-GRUE JAUNE;-1.569191;47.204879;Grue Jaune - Face au mail des Chantiers
+115;115-TRENTEMOULT;-1.581806;47.195308;Face 11, quai Marcel Boissard - Trentemoult - REZÉ
+95;095-MICHELET;-1.556322;47.235158;50, boulevard Michelet
+59;059-STADE SAUPIN;-1.540181;47.213682;35, quai de Malakoff
+80;080-VICTOR HUGO;-1.5515484848032;47.2040032084911;25, boulevard Victor Hugo - 28, boulevard Gustave Roch
+35;035-JEAN V;-1.56497287562598;47.2123685630664;Rue Pierre Louis Athénas
+62;062-GARE DE NANTES NORD 2;-1.541751;47.218103;22-23 boulevard de Stalingrad
+7;007-BARILLERIE;-1.55612612597517;47.2153313580104;2, allée Penthièvre
+18;018-VIARME;-1.56330836686976;47.2214293389855;23, place Viarme
+57;057-GAËTAN RONDEAU;-1.53758186300399;47.2053961321791;20, rue Gaëtan Rondeau
+76;076-RENÉ BOUHIER;-1.57051533628071;47.2094290925244;8, place René Bouhier
+50;050-CHÂTEAU;-1.55022624256337;47.2151496951626;7, rue des Etats
+101;101-PIRMIL;-1.54156809120326;47.1965313642396;13, rue Esnoul des Châtelets
+22;022-MOQUECHIEN;-1.55553104193626;47.220392126692;8, rue Moquechien - 17, allée des Tanneurs
+66;066-CHANZY;-1.54799992590737;47.2254298853335;Face au 23, avenue Chanzy
+94;094-PETIT PORT;-1.55634461016798;47.2432639149755;Boulevard du Petit Port - place du 8 mai 1945
+112;112-PÔLE SOCIAL MARION CAHOUR;-1.567201;47.188684;10, rue Marion Cahour - REZÉ
+77;077-ÉCOLE D'ARCHITECTURE;-1.55753246791432;47.2076056402121;6, quai François Mitterrand
+97;097-SAINT DONATIEN;-1.54029259428922;47.2290880870929;Place du 51ème Régiment d'Artillerie
+67;067-WALDECK ROUSSEAU;-1.55214798607222;47.2277747610651;Place Waldeck Rousseau - Pont Général de la Motte Rouge
+92;092-ROND POINT DE RENNES;-1.56605906933562;47.2330281847759;Angle boulevard Lelasseur - Rue Paul Bellamy
+108;108-BONNE GARDE;-1.532105;47.197217;Face 97, rue Bonne Garde
+29;029-DUGUAY TROUIN;-1.55730644460216;47.2126959612969;18, allée Duguay Trouin
+21;021-TALENSAC SUD;-1.55647633932779;47.2211433291291;6, rue Talensac
+39;039-QUAI MONCOUSU;-1.55523314463147;47.2094065738737;1, quai Moncousu - Pont Haudaudine
+63;063-JARDIN DES PLANTES;-1.54471896453159;47.219834197319;Rue Stanislas Baudry  - face rue Georges Clémenceau
+107;107-MOUTONNERIE;-1.532947;47.219901;Rue Francisco Ferrer
+68;068-LIVET;-1.54521243421509;47.2240678794875;65, rue Dufour
+69;069-MANUFACTURE;-1.53584744327638;47.2192163807113;11 bis, boulevard Stalingrad
+106;106-GARENNES;-1.5787;47.202127;2, rue des Garennes
+98;098-HUIT MAI;-1.55082803645635;47.189212047513;Avenue de la Libération - rue Eugène Pottier - REZÉ
+111;111-DIDEROT;-1.562532;47.184491;Avenue de la Vendée - Face à l'Espace Diderot - REZÉ
+11;011-CALVAIRE;-1.56067528370012;47.2155789424271;8, rue du Calvaire - Place des Volontaires de la Défense Passive
+16;016-ÉDOUARD NORMAND;-1.56341948405375;47.2190275447384;Face au 7, place Edouard Normand
+121;121-VICTOR RICHARD;-1.533329;47.228614;12, place Victor Richard
+40;040-MADELEINE;-1.55041191411915;47.2088046424378;Quai Moncousu - Pont Général Audibert
+109;109-CLOS TOREAU;-1.529313;47.19426;Face 31, boulevard Emile Gabory
+30;030-COMMERCE;-1.5555053519911;47.2138876911855;Place du Commerce - Cours Franklin Roosevelt
+23;023-BUAT;-1.5424047412504;47.2271454682246;118, rue de Coulmiers
+12;012-DELORME;-1.56390067346586;47.2151581886857;1, boulevard Gabriel Guist'Hau - Place Delorme
+105;105-HANGAR À BANANES;-1.573184;47.199408;Boulevard des Antilles - quai Président Wilson - Grue Titan Grise
+126;126-GARE DE CHANTENAY;-1.594891;47.19773;7, boulevard Maréchal Alphonse Juin
+10;010- PICASSO;-1.533796;47.216207;12, mail Pablo Picasso
+58;058-PALAIS DES SPORTS;-1.536657;47.208465;8,rue André Tardieu
+87;087-ANATOLE FRANCE;-1.57137357811241;47.2236048153991;41, rue Alexandre Dumas - Place Anatole France
+83;083-MILLERAND;-1.53018043595997;47.2081996450388;9, boulevard Alexandre Millerand - 28, boulevard Georges Pompidou
+45;045-PRAIRIE AU DUC;-1.55892310936669;47.2047839355992;25, boulevard de la Prairie au Duc
+78;078-DE GAULLE;-1.54051448829019;47.2084436771829;7, rue Françoise Giroud - Boulevard Général de Gaulle
+119;119-ZOLA;-1.586108;47.213859;Place Emile Zola
+125;125-PLACIS;-1.520481;47.199378;Avenue de la Martellière - SAINT-SÉBASTIEN-SUR-LOIRE
+14;014-SAINT FÉLIX;-1.556133;47.230334;35, Boulevard Amiral Courbet
+33;033-RACINE;-1.5631408744314;47.2135226137199;5, rue Racine
+72;072-BELLAMY-GUÉ MOREAU;-1.56180639301113;47.2286256905746;138, rue Paul Bellamy
+42;042-GARE MARITIME;-1.5726102869705;47.2065977289879;Quai Ernest Renaud - Place Jacksonville
+46;046-RÉPUBLIQUE;-1.55518310791618;47.2053240902952;3, place de la République
+49;049-DUCHESSE ANNE;-1.547253;47.2167;2, place de la Duchesse Anne
+118;118-ÉGALITÉ;-1.589002;47.209661;Boulevard Léon Jouhaux
+61;061-LIEU UNIQUE;-1.546825;47.215394;23, quai Ferdinand Favre
+41;041-BRUNELIÈRE;-1.56823;47.208905;88, quai de la Fosse
+100;100-GRÉNERAIE;-1.53471754047048;47.1999230929052;Parc de la Gréneraie - NANTES
