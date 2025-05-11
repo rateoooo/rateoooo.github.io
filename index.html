@@ -40,28 +40,35 @@
         <div class="loader"></div>
         <!-- Section 3 quii ne sert a rien-->
         <div class="section3" id="section3">
+
+ 
             <div class="link-container">
                 <a href="https://www.linkedin.com/in/mat%C3%A9o-esteban-9409942a8/" class="link-text">Linkedin</a>
                 <a href="docs/CV_MATEO_ESTEBAN.pdf" class="link-text" target="_blank">CV</a>
-               
-                
+                <div class="projects-dropdown">
+                    <span class="link-text">Projets</span>
+                    <div class="dropdown-content">
+                        
+                        <button class="dropdown-link" onclick="scrollToSection('projects2')">Projets d'études</button>
+                        <button onclick="window.location.href='mon_template/index.html'" class="dropdown-link">Projets persos</button>
+
+                    </div>
+                </div>
+            </div>
+            
+            <button class="button" onclick="scrollToSection('presentation')">_</button>
     
             </div>
             <div class="text"></div>
         </div>
         <div class="video-container">
             <video id="myVideo" width="1920" height="1080" autoplay muted loop>
-                <source src="photo/stat.mp4" type="video/mp4">
-                Your browser does not support the video tag
+                
+                
             </video>
-            <div class="overlay-text">Matéo Esteban</div>
+            <div class="overlay-text"> </div>
             <div class="button-section">
-                <button onclick="scrollToSection('presentation')">A propos</button>
-                
-    
-                <button onclick="scrollToSection('jordan')">Projets </button>
-                
-                <button onclick="scrollToSection('jordan')">Me contacter</button>
+
                 
     
     
@@ -74,8 +81,8 @@
         <div class="button-container">
             <button class="tab-button active" onclick="showSection('presentation')">Présentation</button>
             <button class="tab-button" onclick="showSection('langues')">Langues</button>
-            <button class="tab-button" onclick="showSection('soft-skills')">Soft Skills</button>
-            <button class="tab-button" onclick="showSection('passion')">PassionS</button>
+            <button class="tab-button" onclick="showSection('soft-skills')">Ma formation</button>
+            <button class="tab-button" onclick="showSection('passion')">Mon métier plus tard</button>
         </div>
         <div class="circle small shade1"></div>
         <div class="circle medium shade2"></div>
@@ -128,14 +135,32 @@ N'hésitez pas à parcourir ce site pour en savoir plus sur mon parcours, mes co
         <!-- Contenu de l'onglet Soft Skills -->
         <div id="soft-skills-content" class="text-container">
             <p class="text-content">
-                Mes soft skills incluent le travail en équipe, la communication, la résolution de problèmes et l'adaptabilité. Ces compétences me permettent de m'intégrer facilement dans des équipes et de contribuer de manière significative aux projets.
+                Quand j’ai intégré la formation du BUT Science des Données il y a deux ans, je ne savais pas vraiment à quoi m’attendre. Mais aujourd’hui, avec du recul, je peux dire que c’était une expérience que je ne regrette absolument pas.
+Le vrai plus de cette formation, ce sont les projets « SAE » (Situations d’Apprentissage et d’Évaluation) qui allient le côté théorique des cours à des projets concrets.
+<br></br>
+<p class="text-content">
+De plus, la possibilité de faire un stage en deuxième année, puis de l’alternance en troisième année, est un véritable atout. Le stage de deuxième année m’a permis de mettre en pratique ce que j’apprenais en cours, tout en découvrant le monde professionnel.
+Les outils et les matières enseignés sont intéressants, mêlant l’informatique décisionnelle, plus orientée informatique, à la statistique décisionnelle, davantage axée sur les mathématiques et les statistiques.
+</p>
+<br>
+<p class="text-content">
+On dispose d’un large éventail d’options pour résoudre des problèmes et traiter des sujets variés.
+En résumé, je ne regrette pas d’avoir choisi ce BUT. J’ai hâte de voir ce que l’avenir me réserve !
+</p>
             </p>
         </div>
     
         <!-- Contenu de l'onglet Passion -->
         <div id="passion-content" class="text-container">
             <p class="text-content">
-                Je suis passionné d’informatique et j’aime explorer de nouveaux langages de programmation. En dehors du développement, je suis amateur de cinéma et je pratique beaucoup de sport, principalement le football. J’adore voyager et je m’intéresse également à la musique , je joue de la basse en autodidacte.
+                Plus tard, je voudrais devenir data analyst. C’est un métier qui me passionne, car j’aime donner du sens à des données qui, au premier abord, peuvent
+                sembler complexes ou désorganisées. 
+                <br></br>
+                Ce que je trouve particulièrement motivant, c’est de pouvoir créer des visualisations claires et parlantes pour 
+                aider les autres à mieux comprendre les informations. 
+                <br></br>
+                Travailler avec les données, les explorer, les analyser et en tirer des conclusions utiles est 
+                quelque chose que je trouve à la fois stimulant et gratifiant. C’est un métier au cœur de la prise de décision, et j’aimerais y contribuer avec mes compétences.
             </p>
         </div>
     </div>
@@ -152,14 +177,14 @@ N'hésitez pas à parcourir ce site pour en savoir plus sur mon parcours, mes co
                     <input type="checkbox" id="sk1">
                     <label for="sk1"></label>
                     <ul class="skills skills1">
+                        <li class="sk-ani"><span>HTML-CSS-JS</span></li>
                         <li class="sk-cms"><span>Python</span></li>
-                        <li class="sk-dtb"><span>Html</span></li>
-                        <li class="sk-dis"><span>Css</span></li>
-                        <li class="sk-pro"><span>R & R-Shiny</span></li>
-                        <li class="sk-ani"><span>SQL</span></li>
+                        <li class="sk-dis"><span>SQL</span></li>
+                        <li class="sk-pro"><span>Dax</span></li>
+                        <li class="sk-dtb"><span>R & R-Shiny</span></li>
                         <li class="more">
                             <input type="checkbox" id="more-con"><label for="more-con"></label>
-                            <div><span>DAX</span><span>SAS</span></span><span>VBA</span></div>
+                            <div><span>M</span><span>SAS</span></span><span>VBA</span><span>PHP</span><span>Ruby</span></div>
                         </li>
                     </ul>
                 </div>
@@ -168,13 +193,13 @@ N'hésitez pas à parcourir ce site pour en savoir plus sur mon parcours, mes co
                     <label for="sk2"></label>
                     <ul class="skills skills2">
                         <li class="sk-gim"><span>Power-BI</span></li>
-                        <li class="sk-ado"><span>R-Studio&nbsp;</span></li>
-                        <li class="sk-not"><span>Excel</span></li>
-                        <li class="sk-tri"><span>Business objects</span></li>
+                        <li class="sk-ado"><span>Excel&nbsp;</span></li>
+                        <li class="sk-not"><span>Suite office</span></li>
+                        <li class="sk-tri"><span>SAP-Business objects</span></li>
                         <li class="sk-wor"><span>Talend</span></li>
                         <li class="more">
                             <input type="checkbox" id="more-pro"><label for="more-pro"></label>
-                            <div><span>Tableau</span><span>Oracle</span><span>SAP-Business Object</span></div>
+                            <div><span>Qgis</span><span>Oracle</span></div>
                         </li>
                     </ul>
                 </div>
@@ -182,8 +207,9 @@ N'hésitez pas à parcourir ce site pour en savoir plus sur mon parcours, mes co
                     <input type="checkbox" id="sk3">
                     <label for="sk3"></label>
                     <ul class="skills skills3">
-                        <li class="sk-css"><span>Test d'hypothèses</span></li>
+                        
                         <li class="sk-htm"><span>Modèles linéaires</span></li>
+                        <li class="sk-css"><span>Test d'hypothèses</span></li>
                         <li class="sk-jav"><span>Analyses/prévisions de données temporelles
                             
                             </span></li>
@@ -268,161 +294,68 @@ N'hésitez pas à parcourir ce site pour en savoir plus sur mon parcours, mes co
 
 
 <section class="projects" id="projects-projects">
-    <h2 class="section-title">Mes <span class="highlight">projets</span></h2>
+    <h2 id="titre-sd1" class="section-title">Mes projets de <span class="highlight">SD-1</span></h2>
     <div class="projects-container">
         <!-- Bouton de navigation gauche -->
-        <button class="nav-button left" onclick="showPrevious('projects')">⭠</button>
-
+        <button class="nav-button left" onclick="showPrevious('projects')">
+            <svg class="arrow-icon" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+                <polyline points="15 18 9 12 15 6"></polyline>
+            </svg>
+        </button>
+    
         <!-- Conteneur des cartes de projets -->
         <div class="projects-wrapper" id="projects-wrapper">
-            <div class="project-card">
-                <div class="icon">📚</div>
-                <h3 class="project-title">Questionnaire</h3>
-                <p class="project-description">Questionnaire de Satisfaction</p>
-                <button class="project-button" onclick="window.location.href='Projet1.html'">Learn More</button>
-            </div>
-            <div class="project-card">
-                <div class="icon">📊</div>
-                <h3 class="project-title">EPSM</h3>
-                <p class="project-description">L’EPSM</p>
-                <button class="project-button" onclick="window.location.href='Projet2.html'">Learn More</button>
-            </div>
-            <div class="project-card">
-                <div class="icon">📈</div>
-                <h3 class="project-title">Application R-Shiny</h3>
-                <p class="project-description">Application R-Shiny</p>
-                <button class="project-button" onclick="window.location.href='Projet3.html'">Learn More</button>
-            </div>
-            <!-- Ajoutez plus de projets ici -->
-            <div class="project-card">
-                <div class="icon">🌧️</div>
-                <h3 class="project-title">Météo France</h3>
-                <p class="project-description">Année d’actualiser les données</p>
-                <button class="project-button" onclick="window.location.href='Projet4.html'">Learn More</button>
-            </div>
-            <div class="project-card">
-                <div class="icon">📊</div>
-                <h3 class="project-title">EPSM</h3>
-                <p class="project-description">L’EPSM</p>
-                <button class="project-button" onclick="window.location.href='Projet5.html'">Learn More</button>
-            </div>
-            <div class="project-card">
-                <div class="icon">📈</div>
-                <h3 class="project-title">jsp quoi dire</h3>
-                <p class="project-description">Projets à expliquer là</p>
-                <button class="project-button" onclick="window.location.href='Projet6.html'">Learn More</button>
-            </div>
-            <!-- Ajoutez plus de projets ici -->
-            <div class="project-card">
-                <div class="icon">🌧️</div>
-                <h3 class="project-title">Météo France</h3>
-                <p class="project-description">Année d’actualiser les données</p>
-                <button class="project-button" onclick="window.location.href='meteo-france.html'">Learn More</button>
-            </div>
-            <div class="project-card">
-                <div class="icon">📊</div>
-                <h3 class="project-title">EPSM</h3>
-                <p class="project-description">L’EPSM</p>
-                <button class="project-button" onclick="window.location.href='epsm.html'">Learn More</button>
-            </div>
-            <div class="project-card">
-                <div class="icon">📈</div>
-                <h3 class="project-title">jsp quoi dire</h3>
-                <p class="project-description">Projets à expliquer là</p>
-                <button class="project-button" onclick="window.location.href='exemple.html'">Learn More</button>
-            </div>
+            <!-- tes project-card ici, inchangées -->
         </div>
-
+    
         <!-- Bouton de navigation droite -->
-        <button class="nav-button right" onclick="showNext('projects')">⭢</button>
-
+        <button class="nav-button right" onclick="showNext('projects')">
+            <svg class="arrow-icon" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+                <polyline points="9 18 15 12 9 6"></polyline>
+            </svg>
+        </button>
     </div>
+    
 </section>
 
 
 
+<!--   
 
 
-
-<script>
-    // Données des projets
-    const shoeData = {
-        projects: [
-            { icon: "📚", title: "Questionnaire", description: "Questionnaire de Satisfaction", link: "Projet1.html" },
-            { icon: "📈", title: "Projet1", description: "Projet1", link: "Projet2.html" },
-            { icon: "📈", title: "Projet1", description: "Projet1", link: "Projet3.html" },
-
-            { icon: "🌧️", title: "Météo France", description: "explication projet", link: "meteo-france.html" },
-            { icon: "📊", title: "EPSM", description: "explication projet", link: "epsm.html" },
-            { icon: "📊", title: "Application R-Shiny", description: "Application R-Shiny intéractive", link: "exemple.html" },
-
-            { icon: "📈", title: "SEMESTRE3", description: "SEMESTRE2 id", link: "Projet4.html" },
-            { icon: "📈", title: "SEMESTRE3", description: "SEMESTRE2 id", link: "Projet5.html" },
-            { icon: "📈", title: "SEMESTRE3", description: "SEMESTRE2 id", link: "Projet6.html" }
-        ],
-    };
-    
-    // Index actuel pour chaque section
-    let currentIndex = {
-        projects: 0,
-    };
-    
-    // Fonction pour afficher les projets suivants
-    function showNext(section) {
-        const container = document.getElementById(`projects-wrapper`);
-        currentIndex[section] = (currentIndex[section] + 3) % shoeData[section].length;
-        updateShoeDisplay(section, container);
-    }
-    
-    // Fonction pour afficher les projets précédents
-    function showPrevious(section) {
-        const container = document.getElementById(`projects-wrapper`);
-        currentIndex[section] = (currentIndex[section] - 3 + shoeData[section].length) % shoeData[section].length;
-        updateShoeDisplay(section, container);
-    }
-    
-    // Fonction pour mettre à jour l'affichage des projets
-    function updateShoeDisplay(section, container) {
-        if (!container) {
-            console.error(`Container not found for section: ${section}`);
-            return;
-        }
-    
-        // Vider le conteneur
-        container.innerHTML = "";
-    
-        // Ajouter les 3 projets visibles
-        for (let i = 0; i < 3; i++) {
-            const projectIndex = (currentIndex[section] + i) % shoeData[section].length;
-            const project = shoeData[section][projectIndex];
-    
-            // Créer une carte de projet
-            const projectCard = document.createElement("div");
-            projectCard.className = "project-card";
-            projectCard.innerHTML = `
-                <div class="icon">${project.icon}</div>
-                <h3 class="project-title">${project.title}</h3>
-                <p class="project-description">${project.description}</p>
-                <button class="project-button" onclick="window.location.href='${project.link}'">Learn More</button>
-            `;
-    
-            // Ajouter la carte au conteneur
-            container.appendChild(projectCard);
-        }
-    
-        console.log("Projets affichés :", container.innerHTML);
-    }
-    
-    // Initialiser l'affichage des projets au chargement de la page
-    document.addEventListener("DOMContentLoaded", () => {
-        updateShoeDisplay("projects", document.getElementById("projects-wrapper"));
-    });
-    </script>
-    
+-->
 
 
 
 
+
+
+
+
+
+
+
+<section class="projects2" id="projects2">
+    <h2 id="titre-sd2" class="section-title">Mes projets de <span class="highlight">SD-2</span></h2>
+    <div class="projects2-container">
+        <!-- Bouton de navigation gauche (identique à projects) -->
+        <button class="nav-button left" onclick="showPrevious('projects2')">
+            <svg class="arrow-icon" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+              <polyline points="15 18 9 12 15 6"></polyline>
+            </svg>
+        </button>
+
+        <!-- Conteneur des cartes de projets -->
+        <div class="projects2-wrapper" id="projects2-wrapper"></div>
+
+        <!-- Bouton de navigation droite (identique à projects) -->
+        <button class="nav-button right" onclick="showNext('projects2')">
+            <svg class="arrow-icon" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+              <polyline points="9 18 15 12 9 6"></polyline>
+            </svg>
+        </button>
+    </div>
+</section>
 
 
 
@@ -444,35 +377,64 @@ N'hésitez pas à parcourir ce site pour en savoir plus sur mon parcours, mes co
         background-color: #131416;
         color: #ffffff;
         text-align: center;
-        padding: 20px 20px;
+        padding: 0px 20px;
         position: relative;
         top: -150px;
+        left: 55px;
+           
     }
+    .projects p,
+    .projects h1,
+    .projects h2,
+    .projects .project-description {
+        margin-left: -15px;
+    }
+
+    .projects-wrapper {
+        display: flex;
+        flex-wrap: wrap;
+        
+        justify-content: center;
+        display: flex;
+        transition: transform 0.5s ease-in-out;
+        gap: 20px; /* Espacement entre les cartes */
+        padding: 0 20px; /* Pour éviter que les cartes ne touchent les bords */
+    
+    }
+  
     .section-title {
         font-size: 2.5rem;
         font-weight: bold;
-        margin-bottom: 30px;
+        margin-bottom: 200px;
+        margin-left: 100px
     }
     .highlight {
-        color: #ff8c00;
+        color: #f70909;
     }
+
     .projects-container {
+        position: relative;
+        max-width: 1200px; /* ou la largeur que vous souhaitez */
+        margin: 0 auto;
+        padding: 0 20px; /* espace pour les boutons */
         display: flex;
-        justify-content: center;
-        gap: 90px;
-        flex-wrap: wrap;
+        align-items: center;
+        
     }
     .project-card {
         background-color: #1d1f22;
-        padding: 20px;
+        
         border-radius: 10px;
-        width: 300px;
+        padding: 20px; /* Doit être identique */
+        margin: 0; /* Pas de marges externes */
+        flex: 0 0 calc(33.333% - 20px);
         text-align: center;
         box-shadow: 0px 0px 10px rgba(255, 140, 0, 0.5);
-    }
+    }   
+
     .icon {
         font-size: 2rem;
-        color: #ff8c00;
+        color: #d8d8d8;
         margin-bottom: 10px;
     }
     .project-title {
@@ -483,18 +445,301 @@ N'hésitez pas à parcourir ce site pour en savoir plus sur mon parcours, mes co
         font-size: 1rem;
         margin: 15px 0;
     }
-    .project-button {
-        background-color: #ff8c00;
-        color: black;
-        padding: 10px 20px;
-        border: none;
-        border-radius: 5px;
-        font-size: 1rem;
-        cursor: pointer;
-        transition: 0.3s;
-    }
+
+
+
 
 </style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+    .projects2 {
+        background-color: #131416;
+        color: #ffffff;
+        text-align: center;
+        padding: 0px 20px; /* Changement du padding ici */
+        position: relative;
+        top: -150px;
+    }
+
+    .projects2-wrapper {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+        justify-content: center;
+        
+    
+    }
+  
+    .section-title {
+        font-size: 2.5rem;
+        font-weight: bold;
+        margin-bottom: 30px;
+    }
+  
+    .highlight {
+        color: #ff8c00;
+    }
+  
+    .projects2-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 20px; /* Espace entre les cartes */
+        position: relative; /* Permet de positionner les boutons à l'intérieur */
+        
+
+
+    }
+
+
+
+
+
+  
+    .projects2-card {
+        background-color: #1d1f22;
+        
+        border-radius: 10px;
+        text-align: center;
+        box-shadow: 0px 0px 10px rgba(255, 140, 0, 0.5);
+        
+        padding: 20px; /* Doit être identique */
+        margin: 0; /* Pas de marges externes */
+        flex: 0 0 calc(33.333% - 20px); /* 3 cartes par vue, avec un espace de 20px */
+        
+        box-sizing: border-box;
+        transition: opacity 0.5s ease-in-out; /* Animation d'apparition */
+
+
+    }
+
+    .projects2-title {
+        font-size: 1.5rem;
+        font-weight: bold;
+    }
+  
+    .projects2-description {
+        font-size: 1rem;
+        margin: 15px 0;
+    }
+  
+
+  
+    .projects2-button:hover {
+        background-color: #ffffff;
+    }
+  
+
+
+
+
+
+
+
+    .nav-button:hover {
+        color: #ffffff; /* Change la couleur de la flèche au survol */
+    }
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+    // Données des projets - version unifiée
+    const projectsData = {
+        projects: [
+            { icon: "🌧️", title: "Météo France", description: "Challenge dataviz", link: "Projet2-4.html" },
+            { icon: "📝", title: "Questionnaire", description: "Mise en oeuvre d’une enquête de Satisfaction", link: "Projet2.html" },
+            { icon: "📊", title: "Projet EPSM", description: "Outil d'aide à la décision", link: "Projet5.html" },
+            
+            { icon: "📚", title: "Rapport Insee", description: "emploi dans la fonction publique", link: "Projet1.html" },
+
+            
+
+        ],
+        projects2: [
+            { icon: "🎶", title: "Application R-Shiny Spotify", description: "Dev composant solution décisionnelle", link: "Projet2-3.html" },
+            { icon: "🔍", title: "Reporting Multivariée", description: "analyse en composantes principales", link: "Projet2-5.html" },
+            { icon: "💼", title: "Stage", description: "Stage au Crédit Agricole", link: "Projet2-2.html" },
+            { icon: "🌐", title: "Scrapping", description: "Collecte automatisée de données web", link: "Projet2-1.html" },
+            
+            
+
+        ]
+    };
+    
+// Index actuel pour chaque section
+let currentIndex = {
+    projects: 0,
+    projects2: 0,
+};
+
+// Fonction pour afficher les projets suivants
+function showNext(section) {
+    const container = document.getElementById(`${section}-wrapper`);
+    currentIndex[section] = (currentIndex[section] + 3) % projectsData[section].length;
+    updateProjectsDisplay(section, container);
+}
+
+// Fonction pour afficher les projets précédents
+function showPrevious(section) {
+    const container = document.getElementById(`${section}-wrapper`);
+    currentIndex[section] = (currentIndex[section] - 3 + projectsData[section].length) % projectsData[section].length;
+    updateProjectsDisplay(section, container);
+}
+
+// Fonction pour mettre à jour l'affichage
+function updateProjectsDisplay(section, container) {
+    if (!container) return;
+    
+    container.innerHTML = "";
+    const cardClass = section === 'projects' ? 'project-card' : 'projects2-card';
+
+    for (let i = 0; i < 3; i++) {
+        const projectIndex = (currentIndex[section] + i) % projectsData[section].length;
+        const project = projectsData[section][projectIndex];
+
+        const projectCard = document.createElement("div");
+        projectCard.className = cardClass;
+        projectCard.innerHTML = `
+            <div class="icon">${project.icon}</div>
+            <h3 class="project-title">${project.title}</h3>
+            <p class="project-description">${project.description}</p>
+            <button class="project-button" onclick="window.location.href='${project.link}'">Learn More</button>
+        `;
+        container.appendChild(projectCard);
+    }
+}
+
+// Initialisation
+document.addEventListener("DOMContentLoaded", () => {
+    // Initialisation des projets lors du chargement de la page
+    updateProjectsDisplay("projects", document.getElementById("projects-wrapper"));
+    updateProjectsDisplay("projects2", document.getElementById("projects2-wrapper"));
+});
+
+    
+
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!-- Bannière en bas de la page -->
 
@@ -515,7 +760,7 @@ N'hésitez pas à parcourir ce site pour en savoir plus sur mon parcours, mes co
 
 <footer class="banner">
     <div class="banner-content">
-        <p>Site développé par Matéo ESTEBAN avec HTML, CSS, JavaScript.
+        <p>Page web statique développé par Matéo ESTEBAN étudiant à l'iut de Vannes en BUT2-SD
 
             </p>
         <p>© Matéo ESTEBAN 2025</p>
